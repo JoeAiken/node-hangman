@@ -1,0 +1,23 @@
+{
+  "name": "node-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "letter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeAiken/node-hangman.git"
+  },
+  "author": "Joe Aiken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeAiken/node-hangman/issues"
+  },
+  "homepage": "https://github.com/JoeAiken/node-hangman#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "is-letter": "^1.1.1"
+  }
+}
